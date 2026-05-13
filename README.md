@@ -1,4 +1,4 @@
-debate-planner
+# debate-planner
 A Claude Code skill that turns planning sessions into structured debates — so you build the right thing instead of the complete thing.
 What it does
 When you're planning a product, feature, or system, this skill makes Claude Code act like a sharp co-founder rather than a yes-machine. It will:
