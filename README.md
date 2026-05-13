@@ -17,6 +17,6 @@ Automatically activates when you say things like:
 Install
 # From Claude Code
 
-/install-skill https://raw.githubusercontent.com/YOUR_USERNAME/claude-code-skills/main/skills/debate-planner/SKILL.md
+/install-skill https://raw.githubusercontent.com/Mukhtar65/claude-skills/main/skills/debate-planner/SKILL.md
 
 Or manually copy SKILL.md to ~/.claude/skills/debate-planner/SKILL.md.
